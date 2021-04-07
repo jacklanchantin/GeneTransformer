@@ -16,6 +16,6 @@ http://www.cs.virginia.edu/~jjl5sw/data/deepsea_data.gz
     deepsea_data/test_4k.txt
     
     
-File format:
+txt file line format:
 
     sequence,label1,label2,label3,...,label919
